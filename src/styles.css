@@ -53,3 +53,8 @@ li {
 .search-form {
   margin-bottom: 20px;
 }
+
+p {
+  text-align: center;
+  margin: 20px;
+}
